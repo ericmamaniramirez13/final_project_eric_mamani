@@ -1,4 +1,7 @@
-# My projest has the following sorting algorithms:
+# Final Project
+This project is based on sorting algorithms and visualizations. I wanted to show how these sorting algorithms work with visuals instead of just array of numbers in code.
+
+## My projest has the following sorting algorithms:
 - 1. Selection Sort. O(n^2)
 - - In computer science, selection sort is an in-place comparison sorting algorithm. It has an O(n²) time complexity, which makes it inefficient on large lists, and generally performs worse than the similar insertion sort.
 - 2. Bubble Sort. O(n^2)
