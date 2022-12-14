@@ -101,3 +101,14 @@ input[type="button"], button{
 	border-radius: 5px;
 	border: 3px solid black;
 }
+footer {
+    background-color: #345bab;
+    border-radius: 20px;
+    padding: 20px;
+}
+footer p, h4{
+    color: white;
+    text-align: center;
+}
+let currentdate = document.lastModified;
+document.getElementById("modified").textContent = 'Last Updated:' + currentdate;
