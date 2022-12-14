@@ -373,3 +373,5 @@ async function HeapSort() {
 	}
 	Finished_Sorting();
 } 
+let currentdate = document.lastModified;
+document.getElementById("modified").textContent = 'Last Updated:' + currentdate;

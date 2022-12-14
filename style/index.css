@@ -110,5 +110,3 @@ footer p, h4{
     color: white;
     text-align: center;
 }
-let currentdate = document.lastModified;
-document.getElementById("modified").textContent = 'Last Updated:' + currentdate;
