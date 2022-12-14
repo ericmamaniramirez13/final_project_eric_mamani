@@ -373,5 +373,8 @@ async function HeapSort() {
 	}
 	Finished_Sorting();
 } 
+
+
+// Footer
 let currentdate = document.lastModified;
 document.getElementById("modified").textContent = 'Last Updated:' + currentdate;
